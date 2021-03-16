@@ -2,7 +2,7 @@
 Bienvenue sur l'instance de test de KanFF (`l'instance Blason` pour les intimes), vous permettant de tester plusieurs versions de l'application.  
 Le *but de ces tests* est d'abord **de vous faire découvrir l'application**, puis de **récolter des retours, des rapports de bugs et de nouvelles idées** afin d'améliorer constamment les fonctionnalités et corriger les bugs.
 
-{infoIfScreenIsSmall}
+{infoIfScreenIsTooSmallToTest}
 
 ## Versions disponibles
 Vous pouvez tester 3 versions différentes:
@@ -36,3 +36,9 @@ Comme 3 applications sont hébergées au même endroit (situation particulière)
 ### Identifiants
 
 
+### Tests de sécurité
+Si vous êtes intéressé·e à faire des tests de sécurité sur KanFF vous êtes bienvenu·e ! Nous avons besoin que la sécurité de KanFF soit à un très bon niveau. 
+Voici quelques règles à respecter:
+1. Si vous pensez avoir trouvé une faille de sécurité ou vous souhaitez tester différentes méthodes d'intrusion, installez une instance de développement locale et faites vos tests uniquement dessus. Ne testez jamais d'intrusion ou d'exploitation de failles sur des instances de production ou de tests comme celle-ci.
+1. Veuillez reporter rapidement le problème à l'équipe de développement, vous recevrez une réponse rapidement pour savoir si vos résultats démontrent effectivement la présence de failles exploitables.
+1. 
