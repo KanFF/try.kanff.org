@@ -19,7 +19,19 @@ Vous pouvez tester les versions que vous souhaitez, mais nous vous recommandons:
 Comme 3 applications sont hébergées au même endroit (situation particulière), quand vous changez de version vous restez connecté (si vous utilisé un compte préexistant). Cependant les données ne sont pas liées (ex: si vous créer une tâche dans /production, elle n'existera pas dans /uptodate). 
 
 ## Bien démarrer
-- Choisir une version
+### Si vous n'avez jamais testé auparavant
+- Choisir une version et y accéder
+- Création d'un compte ou connexion avec un compte existant (listés sous Identifiants)
+- Lire la page A propos (clic sur le nom du collectif)
+- Découverte des pages par onglets du menu
+    - Dashboard
+    - Membres
+    - Groupes
+    - Projets
+
+### Si vous avez déjà vos repères
+- Tester les pages récemment modifiées
+- 
 
 ### Identifiants
 
